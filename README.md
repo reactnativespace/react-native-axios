@@ -2,7 +2,7 @@ How to Use Axios to Make HTTP API calls in React Native?
 ![Screenshot](screenshot.png)
 
 ### 📖Read blog post
-https://reactnativespace.com/tutorials/how-to-use-axios-to-make-http-api-calls-in-react-native
+https://reactnativespace.com/tutorials/making-http-api-calls-with-axios-in-react-native
 
 ### 📘 Installation
 Clone the repo to your directory and install the packages through npm using:
